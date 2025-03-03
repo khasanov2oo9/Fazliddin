@@ -1,0 +1,35 @@
+h1{
+    background-color: blanchedalmond;
+    text-align: center;
+    color: black;
+    font-size: 50px;
+}
+div{
+    background-color: black;
+    text-align: center;
+}
+form{
+    text-align: center;
+    font-size: 30px;
+}
+label{
+    color: yellow;
+}
+input{
+    border-radius: 20px;
+    height: 40px;
+    width: 400px;
+}
+button{
+    font-size: 30px;
+    height: 4x0px;
+    width: 400px;
+background-color: rgb(9, 252, 9);
+border-radius: 20px;
+}
+iframe{
+    text-align: center;
+    width: 1500px;
+    margin: 0 auto;
+}
+d
